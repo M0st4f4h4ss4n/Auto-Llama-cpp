@@ -157,3 +157,4 @@ vicuna-*
 
 # mac
 .DS_Store
+models/ggml-vicuna-13b-4bit.bin
