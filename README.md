@@ -48,6 +48,22 @@ pip install -r requirements.txt</code></pre>
 </li>
 <li>Once you have things running and can see what it does, try changing ai_settings.yml and scripts/data/prompt.txt to change how the AI behaves.</li>
 </ol>
+## Acknowledgements and Credits 👏
+This project is built on top of several open-source projects, and we would like to acknowledge and thank the original developers for their contributions to the AI and open-source community.
+
+### Original Projects:
+1. **Auto-GPT**: This project is a fork of Auto-GPT, which is an attempt to build an AI agent using GPT models that can interact with the user and perform tasks. Auto-GPT project can be found [here](https://github.com/rhohndorf/Auto-GPT).
+
+2. **llama.cpp**: The project uses [llama.cpp](https://github.com/ggerganov/llama.cpp) under the hood for running the llama models locally. llama.cpp is an open-source project developed by [Georgi Gerganov](https://github.com/ggerganov).
+
+3. **Open Assistant**: Auto-Llama-cpp plans to add support for [Open Assistant](https://github.com/LAION-AI/Open-Assistant) models, which is a project aiming to create an open-source AI assistant based on the GPT-3 architecture.
+
+### Contributors:
+- **[rhohndorf](https://github.com/rhohndorf)**: The creator of the Auto-Llama-cpp project and the main contributor.
+- **[Georgi Gerganov](https://github.com/ggerganov)**: Developer of llama.cpp, which is used in this project for running the models locally.
+- **[LAION-AI](https://github.com/LAION-AI)**: The team behind the Open Assistant project.
+
+We encourage everyone to contribute to these projects and help improve the open-source AI ecosystem. If you have any suggestions, issues, or would like to contribute, feel free to submit a pull request or open an issue.
 
 </body>
 </html>
