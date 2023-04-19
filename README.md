@@ -34,7 +34,7 @@
 </table>
 
 <h2>Quick Tutorial 🚀</h2>
-<p>Hi! I ended up trying this out recently and found a few issues but submitted a pull request for it. Here's a quick tutorial of what I did on how to get it up and running with my changes:</p>
+
 <ol>
     <li>Run these commands:
         <pre><code>git clone https://github.com/rhohndorf/Auto-Llama-cpp.git
@@ -58,12 +58,16 @@ This project is built on top of several open-source projects, and we would like 
 
 3. **Open Assistant**: Auto-Llama-cpp plans to add support for [Open Assistant](https://github.com/LAION-AI/Open-Assistant) models, which is a project aiming to create an open-source AI assistant based on the GPT-3 architecture.
 
+### Impressive Idea:
+The creator of the original [Auto-Llama-cpp repository](https://github.com/rhohndorf/Auto-Llama-cpp), [rhohndorf](https://github.com/rhohndorf), came up with an impressive idea to integrate AutoGPT with open-source large language models, allowing developers to run these powerful models locally and experiment with various AI agents. This project demonstrates the potential of open-source AI development and encourages further exploration of AI applications.
+
 ### Contributors:
 - **[rhohndorf](https://github.com/rhohndorf)**: The creator of the Auto-Llama-cpp project and the main contributor.
 - **[Georgi Gerganov](https://github.com/ggerganov)**: Developer of llama.cpp, which is used in this project for running the models locally.
 - **[LAION-AI](https://github.com/LAION-AI)**: The team behind the Open Assistant project.
 
 We encourage everyone to contribute to these projects and help improve the open-source AI ecosystem. If you have any suggestions, issues, or would like to contribute, feel free to submit a pull request or open an issue.
+
 
 </body>
 </html>
