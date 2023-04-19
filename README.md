@@ -48,7 +48,7 @@ pip install -r requirements.txt</code></pre>
 </li>
 <li>Once you have things running and can see what it does, try changing ai_settings.yml and scripts/data/prompt.txt to change how the AI behaves.</li>
 </ol>
-## Acknowledgements and Credits 👏
+### Acknowledgements and Credits 👏
 This project is built on top of several open-source projects, and we would like to acknowledge and thank the original developers for their contributions to the AI and open-source community.
 
 ### Original Projects:
